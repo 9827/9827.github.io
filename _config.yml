@@ -1,23 +1,23 @@
-title: "Well Come To My Page"
+title: "Mahendra Verma"
 author: "Mahendra Verma"
-description: "School Of Studies in Physics and Astrophysics"
+description: "SoS Physics ans Astrophysics"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
-
+show_social: true 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title:  "Home Change", icon: home}
-  - {file: "README.md", title:  "About me", icon: Address-cart }
+  - {file: "README.md", title:  " About me", icon: Address-cart }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mahendverma@gmail.com"}
