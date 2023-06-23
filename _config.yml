@@ -16,7 +16,7 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "\CV_mahendra.pdf", title: "CV"  "Home Change", icon: home}
+  - {file: "\CV_mahendra.pdf", title: "CV", icon: home}
   - {title: " Publication"  }
   -{title: "Blog", file: "\blog.md"}
 
