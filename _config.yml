@@ -1,7 +1,7 @@
-title: "Well Come To My Page"
+title: "Mahendra Verma"
 author: "Mahendra Verma"
 description: "SoS Physics and Astrophysics"
-permalink: /:title/9827.github.io/mahendra
+permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -11,7 +11,7 @@ show_social: true
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+minimal: false             # use a dark header
 
 # Menu
  
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mahendverma@gmail.com"}
-  - {title: Github, icon: github, url: "https://9827.github.io/mahendra"}
+  - {title: Github, icon: github, url: "https://9827.github.io"}
   - {title: Subscribe, icon: linkdin, url: "https://www.linkedin.com/in/mahendra-verma-52b02167/"}
 
 comments:
